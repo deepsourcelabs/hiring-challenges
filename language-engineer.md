@@ -13,7 +13,7 @@ Consider a made-up configuration format called ANON. ANON is very similar to JSO
 
 Example:
 
-```python
+```
 {
 	"heroes": [
 		{
