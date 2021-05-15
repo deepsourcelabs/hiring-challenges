@@ -1,7 +1,7 @@
 # Language Engineering Challenge
 
 - **Timebox:** 3 hours
-- **Technologies:** Whatever you're interviewing for
+- **Technologies:** Whichever language you're interviewing for
 - **Tests:** Nice to have
 - **Documentation:** Nice to have
 
@@ -11,26 +11,27 @@ Pick one of these challenges to get started. Good luck! ✨
 
 Consider a made-up configuration format called ANON. ANON is very similar to JSON, with a few changes.
 
-Example:
+**Example:**
 
 ```
 {
-	"heroes": [
-		{
-			"real_name": "Clint Barton",
-			"superhero_name": "Hawkeye",
-		},
-		{
-			// Dr Strange does not have a separate superhero name
-			"real_name": "Dr. Strange",
-			"superhero_name": "Dr. Strange",
-			"famous_dialogues": """Kaecilius: Mister...
+  "heroes": [
+    {
+      "real_name": "Clint Barton",
+      "superhero_name": "Hawkeye",
+    },
+    {
+      // Dr Strange does not have a separate superhero name
+      "real_name": "Dr. Strange",
+      "superhero_name": "Dr. Strange",
+      "famous_dialogues": """Kaecilius: Mister...
 Dr. Strange: Doctor
 Kaecilius: Mister Doctor?
 Dr. Strange: It's Strange.
-Kaecilius: Maybe. Who am I to judge?"""
-		},
-	],
+Kaecilius: Maybe. Who am I to judge?
+"""
+    },
+  ],
 }
 ```
 
