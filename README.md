@@ -4,13 +4,13 @@ Hello! If you're reading this, then we are most likely in the process of chattin
 
 We would love to see how you work — and this repository contains a set of short challenges that you can use to show us your abilities and skills. All of the challenges are designed to be completed in less than 2-3 hours and we encourage you to _not_ spend anything more than that.
 
-Please note that these challenges are not meant to judge you on a rigid scale — rather, your submission will help us understand how you write code, how you think, and if you're a fit with how our own engineering culture. So feel free to go as deep and extensive as you possibly can with your solution to help us understand how passionate you are about your craft. We'd greatly appreciate that!
+Please note that these challenges are not meant to judge you on a rigid scale — rather, your submission will help us understand how you write code, how you think, and if you're a fit with our engineering culture. So feel free to go as deep and extensive as you possibly can with your solution to help us understand how passionate you are about your craft. We'd greatly appreciate that!
 
 ## Instructions
 
 1. Choose a challenge that matches with the role that you are being considered for. Read the challenge description carefully. If you have any clarifying questions, you may create an issue in this repository or contact your hiring point of contact at DeepSource.
 
-3. For your submission, create a new repository on GitHub. If your submission needs hosting, please specify the live URL in the repository's description or `README.md`. We greatly appreciate if you provide a live link in addition to the source code — so you get brownie points to do that!
+3. For your submission, create a new repository on GitHub. If your submission needs hosting, please specify the live URL in the repository's description or `README.md`. It would be great if you could provide a live link in addition to the source code — for extra brownie points!
 
 4. Complete as much of the challenge as you can without spending more than 2-3 hours on it. Unless specified otherwise, you are free to use any language or framework you want — although ideally we'd prefer if you use one of these: Python, Go (back-end), VueJS, TailwindCSS (front-end).
 

@@ -22,5 +22,5 @@ Feature | Description
 
 **Notes**:
 
-* You can use [httpbin.org](https://httpbin.org/) to test our the APIs.
+* You can use [httpbin.org](https://httpbin.org/) to test out the APIs.
 * Please feel free to use any other third-party library that you need to build the application.
