@@ -23,7 +23,7 @@ Feature | Desciption
 
 **Example Command** 
 
-`create <label> <username>:<password>`
+Command: `create <label> <username>:<password>`
 
-`created`
+Response: `created`
 
