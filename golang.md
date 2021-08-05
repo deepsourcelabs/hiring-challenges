@@ -1,6 +1,6 @@
 # Go Developer Challenge
 
-* **Timebox** 4 hours
+* **Timebox:** 4 hours
 * **Technologies** Golang
 * **Tests:** Must have
 * **Documentation:** Nice to have
