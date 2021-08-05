@@ -13,7 +13,7 @@ Password managers have become an essential utility in day-to-day life.  However,
 
 ### User Stories
 
-Feature | Desciption
+Feature | Description
 ------- | ----------
 **TCP Based Protocol** | Users should be able to interact with your password manager over a simple TCP connection using a simple text based protocol.
 **User Management** | A new user should be able to sign up with a master password using a `signup <password>` command.  The user should be able to login and logout of a session using simple commands.
