@@ -24,10 +24,6 @@ Feature | Desciption
 **Example Command** 
 
 Command:
-```
-create <label> <username>:<password>
-```
+`> create <label> <username>:<password>`
+`created`
 
-```
-created
-```
