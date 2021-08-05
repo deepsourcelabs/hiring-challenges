@@ -25,5 +25,6 @@ Feature | Desciption
 
 Command:
 `> create <label> <username>:<password>`
+
 `created`
 
