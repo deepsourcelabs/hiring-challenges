@@ -19,7 +19,7 @@ Feature | Description
 **User Management** | A new user should be able to sign up with a master password using a `signup <password>` command.  The user should be able to login and logout of a session using simple commands.
 **Password Management** | The user should be able to create, retrieve, update and delete passwords.  Each password can have a label associated with it.  Look below for an example of the command.
 
-**Note:** This challenge is intended to test your ability to work with standard Go libraries and features.  Before submitting, ensure that you document your protocol (commands and responses).  We will test the service by using a telnet command.
+**Note:** This challenge is intended to test your ability to work with standard Go libraries and features.  Before submitting, ensure that you document your protocol (commands and responses).  You only need to build the server which can accept commands using `telnet`.
 
 **Example Command** 
 
